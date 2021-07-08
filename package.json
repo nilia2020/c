@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nilia2020/c.git"
+    "url": "git+https://github.com/nilia2020/curso-webpack-react.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nilia2020/c/issues"
+    "url": "https://github.com/nilia2020/curso-webpack-react/issues"
   },
-  "homepage": "https://github.com/nilia2020/c#readme"
+  "homepage": "https://github.com/nilia2020/curso-webpack-react#readme"
 }
